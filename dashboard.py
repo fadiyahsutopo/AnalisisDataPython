@@ -44,7 +44,7 @@ user_type = create_users_type_df(all_df)
 
 with st.sidebar:
     # Menambahkan logo perusahaan yang bersumber dari https://capitalbikeshare.com/
-    st.image("./CapitalBikeshare-main.png")
+    st.image("https://raw.githubusercontent.com/fadiyahsutopo/PythonAnalisisData/main/CapitalBikeshare-main.png")
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
