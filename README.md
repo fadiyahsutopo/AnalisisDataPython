@@ -1,7 +1,7 @@
 # Bike Sharing Dashboard ✨
 Dashboard link: [Streamlit Dashboard](https://capital-bikesharing.streamlit.app/)
 
-![Streamlit Dashboard Preview](https://raw.githubusercontent.com/fadiyahsutopo/PythonAnalisisData/main/dashboard.png)
+![Streamlit Dashboard Preview](https://github.com/fadiyahsutopo/AnalisisDataPython/blob/main/dashboard.png?raw=true)
 
 ## Setup environment
 ```
